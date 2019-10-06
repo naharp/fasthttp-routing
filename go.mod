@@ -1,10 +1,8 @@
-module github.com/jackwhelpton/fasthttp-routing/v2
+module github.com/naharp/fasthttp-routing
+
+go 1.13
 
 require (
-	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/dgrijalva/jwt-go v3.2.0+incompatible
-	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/stretchr/testify v1.2.2
-	github.com/valyala/fasthttp v1.0.0
-	golang.org/x/text v0.3.0
+	github.com/klauspost/compress v1.8.5 // indirect
+	github.com/valyala/fasthttp v1.5.0
 )

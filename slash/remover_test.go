@@ -7,7 +7,7 @@ package slash
 import (
 	"testing"
 
-	"github.com/jackwhelpton/fasthttp-routing/v2"
+	"github.com/naharp/fasthttp-routing"
 	"github.com/stretchr/testify/assert"
 	"github.com/valyala/fasthttp"
 )

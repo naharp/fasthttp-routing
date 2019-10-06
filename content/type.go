@@ -10,7 +10,7 @@ import (
 	"encoding/xml"
 	"io"
 
-	"github.com/jackwhelpton/fasthttp-routing/v2"
+	"github.com/naharp/fasthttp-routing"
 	"github.com/valyala/fasthttp"
 )
 
